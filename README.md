@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Elian Llorente</h1>
+<h1 align="center">Hi 👋, I'm Elian</h1>
 <h3 align="center">A Software Engineer student</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=elianjl&color=553878&style=for-the-badge" alt="elianjl" /> </p>
