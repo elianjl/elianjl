@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Elian Llorente</h1>
 <h3 align="center">A Software Engineer student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elianjl&label=Profile%20views&color=0e75b6&style=flat" alt="elianjl" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=elianjl&color=553878&style=for-the-badge" alt="elianjl" /> </p>
+<div align="center"><img alt="Coding" src="https://64.media.tumblr.com/5e0f00b8b62d3b96ee542ad1f2fdba09/tumblr_ncfzly8W601r9e2uvo1_r1_500.gif"></div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
